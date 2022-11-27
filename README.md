@@ -1,2 +1,2 @@
-# OgrenciKayitUygulamasiTree
- Java ile Tree kullanarak Ogrenci Kayit Uygulamasi gelistirildi.
+#StudentRegisterTree
+ Student Registration Application was developed using Tree with Java.
